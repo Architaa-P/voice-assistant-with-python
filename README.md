@@ -17,4 +17,6 @@ This Voice assistant helps you to simplify your day to day work by taking voice 
 13)Current Time<br>
 14)Exit(command to exit voice assistant)
 
-<h3>Libraries can be imported by using the command ---> pip install (package name)</h3>
+<h3>Libraries can be imported by using the command ---> pip install (package name)</h3><br>
+
+<h4>To know about working of each libraty go to  https://docs.python.org/3/library/index.html</h4>
